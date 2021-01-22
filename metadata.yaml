@@ -1,0 +1,23 @@
+_repo: Young-MenIn-Business_64295
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wells, J. D.
+    gutenberg_agent_id: '52847'
+    url: http://www.gutenberg.org/2009/agents/52847
+  - agent_name: Guest, William
+    gutenberg_agent_id: '52846'
+    url: http://www.gutenberg.org/2009/agents/52846
+description: ''
+gutenberg_issued: '2021-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Young Men/In Business
+url: http://www.gutenberg.org/ebooks/64295
